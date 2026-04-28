@@ -1,6 +1,6 @@
 # Facial Recognition 🧔 🔍
 
-[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Facial-Recognition-using-Facenet/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
+[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Facial-Recognition-using-Facenet/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)]
 
 This code helps in facial recognition using facenets (https://arxiv.org/pdf/1503.03832.pdf). The concept of facenets was originally presented in a research paper.
 The main concepts talked about triplet loss function to compare images of different person.
@@ -61,9 +61,6 @@ For doing that, run `create-face.py` the images get stored in `/incept` folder. 
 python3 rec-feat.py
 ```
 
-## Results 📊
-
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/Face-Rec.gif">
 
 ###### Made with ❤️ and 🦙 by Akshay Bahadur
 
